@@ -32,4 +32,6 @@ dicio_fasta = read_fasta('caminho/do/arquivo.fasta')
 dicio_pop = get_pop(dicio_fasta)
 ```
 
+### Requerimento
 
+- [biopython](https://biopython.org/docs/latest/api/index.html)
